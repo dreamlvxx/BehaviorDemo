@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BehaviorDemo</string>
+    <string name="behavior_sample_title">com.dream.behaviordemo.behaviors.SampleTitleBehavior</string>
+    <string name="behavior_sample_header">com.dream.behaviordemo.behaviors.SampleHeaderBehavior</string>
+    <string name="behavior_sample_recv">com.dream.behaviordemo.behaviors.RecyclerViewBehavior</string>
+
+</resources>
